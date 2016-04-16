@@ -1,2 +1,2 @@
 # web-sPyder
-A very basic Ptyhon Web Crawler
+A very basic Python Web Crawler
