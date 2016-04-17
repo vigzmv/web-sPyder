@@ -4,7 +4,7 @@ Can be customized for other purposes.
 
 Instructions:
 
-Execute main.py with python3
+Execute main.py with python3 
 Enter Project name
 Enter Complete Domain Name
 
